@@ -1,2 +1,2 @@
 # Scratch-projecten
-Een backup van mijn scratch projecten.
+een kopie van mijn Scratch-projecten.
